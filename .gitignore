@@ -1,0 +1,14 @@
+# User-specific folders
+data/
+
+# Python bytecode (prevents __pycache__ folders from appearing)
+__pycache__/
+*.py[cod]
+
+# Environments (if you ever use a virtual environment)
+venv/
+.env
+
+# System files
+.DS_Store
+Thumbs.db
